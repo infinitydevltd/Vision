@@ -33,7 +33,7 @@ module.exports.run = (client, message, args) => {
                 console.log(e)
             }
         })
-            .setThumbnail(client.user.displayAvatarURL())
+        // .setThumbnail(client.user.displayAvatarURL())
         message.channel.send(embed)
         // message.channel.send(client.user.displayAvatarURL())
     } else {
