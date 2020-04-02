@@ -1,0 +1,16 @@
+{
+  "name": "electro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ElectroClient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "enmap": "^5.2.4",
+    "util": "^0.12.2"
+  }
+}
